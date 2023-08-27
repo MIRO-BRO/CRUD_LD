@@ -1,0 +1,5 @@
+# canvas
+pygame == 2.5.1
+
+# interface
+tkinter == 8.6
